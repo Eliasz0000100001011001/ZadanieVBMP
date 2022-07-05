@@ -32,3 +32,5 @@
 *.app
 /.vs/ZadanieVBMP/v17
 /.vs/ZadanieVBMP/FileContentIndex
+/x64/Debug/ZadanieVBMP.tlog
+/x64/Debug
