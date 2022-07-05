@@ -22,6 +22,9 @@
     <ClCompile Include="pch.cpp" />
     <ClCompile Include="ZadanieVBMP.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
